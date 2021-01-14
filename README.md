@@ -1,1 +1,1 @@
-Odpalanie - dadm.pro
+![](gradle/dependency-graph/project.dot.png)
