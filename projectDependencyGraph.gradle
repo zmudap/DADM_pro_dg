@@ -3,7 +3,7 @@
 
 task projectDependencyGraph {
   doLast {
-    def dot = new File(rootProject.rootDir, 'gradle/dependency-graph/project.dot')
+    def dot = new File(rootProject.rootDir, 'reports/dependency-graph/project.dot')
     dot.parentFile.mkdirs()
     dot.delete()
 
