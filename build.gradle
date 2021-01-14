@@ -25,4 +25,4 @@ task clean(type: Delete) {
   delete rootProject.buildDir
 }
 
-apply from: file('gradle/projectDependencyGraph.gradle')
+apply from: file('projectDependencyGraph.gradle')
