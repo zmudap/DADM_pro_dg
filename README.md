@@ -1,1 +1,1 @@
-![](gradle/dependency-graph/project.dot.png)
+![](dependency-graph/project.dot.png)
